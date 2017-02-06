@@ -5,5 +5,5 @@ The raw data files from this paper are available on Cytobank here for browsing o
 https://www.cytobank.org/nolanlab/reports/Spitzer2017.html
 
 The beta version of the Statistical Scaffold graphical user interface can be located here:
-https://github.com/SpitzerLab/statisticalScaffold
+https://github.com/SpitzerLab/statisticalScaffold.
 We are still testing all of the functionalities in the GUI and would appreciate feedback from any users, as well as any suggestions for additional features that would be useful for other researchers.
